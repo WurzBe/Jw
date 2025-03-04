@@ -8,7 +8,7 @@
 
 :root {
   --text-color: white;
-  --bg-url: linear-gradient(to right, #f7b8d0, #f5e1f0); /* Gradiente rosa claro e lavanda */
+  --bg-url: linear-gradient(to right, #ff9a9e, #fad0c4);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -19,7 +19,7 @@
 
 .light {
   --text-color: black;
-  --bg-url: linear-gradient(to right, #f7b8d0, #f5e1f0); /* Gradiente rosa claro e lavanda */
+  --bg-url: linear-gradient(to right, #ff9a9e, #fad0c4);
   --stroke-color: rgba(0, 0, 0, 1);
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);

@@ -27,6 +27,13 @@
   --bg-img: rgba(0, 0, 0, 0.5);
   --switch-bg-url: url(./assets/sun.svg);
 }
+  .dark {
+    .dark {
+      --bg-url: linear-gradient(to right, #2c3e50, #4ca1af); /* Gradiente azul e cinza escuro */
+      --text-color: white;
+    }
+    
+  }
 
 body {
   background: var(--bg-url) no-repeat top center/cover;

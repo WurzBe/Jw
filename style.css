@@ -15,17 +15,13 @@
   --highlight-color: rgba(255, 255, 255, 0.2);
   --bg-img: rgba(255, 255, 255, 1);
   --switch-bg-url: url(./assets/moon-stars.svg);
-  
+
 }
 
 .light {
   --text-color: rgb(255, 255, 255);
   --bg-url: linear-gradient(to right, #ff9a9e, #fad0c4);
-  --stroke-color: rgba(0, 0, 0, 1);
-  --surface-color: rgba(0, 0, 0, 0.05);
-  --surface-color-hover: rgba(0, 0, 0, 0.02);
-  --highlight-color: rgba(0, 0, 0, 0.1);
-  --bg-img: rgba(0, 0, 0, 0.5);
+
   --switch-bg-url: url(./assets/sun.svg);
 }
   .dark {

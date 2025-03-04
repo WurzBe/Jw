@@ -162,10 +162,12 @@ footer {
 /* Media Queries */
 @media (min-width: 700px) {
   .dark {
-    --bg-url: url(./assets/bg-desktop.jpg);
+   /* --bg-url: url(./assets/bg-desktop.jpg);*/
+    --bg-url: linear-gradient(to right, #f7b8d0, #f5e1f0); /* Gradiente rosa claro e lavanda */
   }
   .light {
-    --bg-url: url(./assets/bg-desktop-light.jpg);
+    /*--bg-url: url(./assets/bg-desktop-light.jpg);*/
+    --bg-url: linear-gradient(to right, #f7b8d0, #f5e1f0); /* Gradiente rosa claro e lavanda */
   }
 }
 

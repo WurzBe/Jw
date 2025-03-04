@@ -19,8 +19,7 @@
 
 .light {
   --text-color: rgb(255, 255, 255);
-  --bg-url: linear-gradient(to right, #ff9a9e, #fad0c4);
-
+  --bg-url: linear-gradient(to right, #a9b2b6, #8cbed6); /* Gradiente cinza claro e azul claro */
   --switch-bg-url: url(./assets/sun.svg);
 }
   .dark {
